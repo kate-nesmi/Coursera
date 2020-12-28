@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Coursera test 2</title>
+	<title>wtf</title>
 </head>
 <body>
-<h1>2nd try</h1>
-<h2>3rd try</h2>
-<p>Hello World!</p>
+	<h1>Hello Git</h1>
+
 </body>
 </html>
